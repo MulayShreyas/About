@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MulayShreyas
-- 👀 I’m interested in Web development, Software Developement, App Development
+- 👀 I’m interested in Web development, Software Developement, App Development, DSA, DBMS.
 - 🤓 I’m currently learning Python, HTML, CSS, C++,Java, JavaScript
 - 📫 How to reach me 👇👇👇👇
  LinkedIn ➡️ https://www.linkedin.com/in/mulayshreyas
